@@ -1,0 +1,4 @@
+Sitemap: http://badtest.nz/sitemapindex.xml
+
+User-Agent: *
+Host: badtest.nz
